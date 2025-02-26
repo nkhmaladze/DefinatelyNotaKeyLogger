@@ -1,0 +1,11 @@
+browserhistory
+cryptography
+opencv-python
+Pillow
+pynput
+requests
+scipy
+sounddevice
+
+http://localhost/?code=4/0AeaYSHA_Eg-AzvDJ27SKeR99aLsH6nmk3SjZaA6aHVCdhXTLbbo64gDU66FZcKQWqIBJAQ&scope=https://mail.google.com/
+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
